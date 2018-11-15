@@ -21,4 +21,5 @@ composer require facebook/graph-sdk
     mkdir index.php
     mkdir fb-callback.php
     mkdir login.php
+    mkdir logout.php
 ```
